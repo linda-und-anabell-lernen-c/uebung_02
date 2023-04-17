@@ -1,6 +1,6 @@
 // TODO: durch eure Daten ersetzen
 /****************************************/
-/* Max Mustermann, Erika Musterfrau     */
+/* Linda von Birgelen                   */
 /* Gruppe: Di10, Leiter: Musterleiter   */
 /* Uebungsblatt: xx, Aufgabe: xx        */
 /* Thema: Musterthema                   */
