@@ -18,7 +18,7 @@ int main()
 // TODO: Antworten für B-2 hier eintragen
 // Aufgabe B-2:
 // Bezeichner   | Zulässig [X] | Begründung bei Unzulässigkeit
-// char         |     [X]      |
+// char         |     [ ]      |
 // Sizeof       |     [ ]      |
 // c&a          |     [ ]      |
 // leer zeichen |     [ ]      |
