@@ -12,7 +12,21 @@
 
 int main()
 {
-  // TODO: Code für Aufagbe B-3 hier
+  int n;
+  printf("Bitte geben Sie eine Zahl ein: ");
+  scanf("%i", &n);
+  int m;
+  printf("Bitte geben Sie eine weitere Zahl ein: ");
+  scanf("%i", &m);
+  int a = n + m;
+  int b = n - m;
+  int c = n * m;
+  // Wegen Ganzzahldivision zu float casten (schöner als float für alles zu benutzen)
+  float d = (float)n / m; 
+  printf("%i + %i = %i\n", n, m, a);
+  printf("%i - %i = %i\n", n, m, b);
+  printf("%i * %i = %i\n", n, m, c);
+  printf("%i / %i = %f\n", n, m, d);
 }
 
 // TODO: Antworten für B-2 hier eintragen
