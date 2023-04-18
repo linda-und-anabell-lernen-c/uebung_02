@@ -1,11 +1,11 @@
 // TODO: durch eure Daten ersetzen
 /****************************************/
 /* Linda von Birgelen                   */
-/* Gruppe: Di10, Leiter: Musterleiter   */
-/* Uebungsblatt: xx, Aufgabe: xx        */
+/* Gruppe: Di14, Leiter: Lucas Sieg     */
+/* Uebungsblatt: 02, Aufgabe: B-2, B-3  */
 /* Thema: Musterthema                   */
 /* Version: 1.0                         */
-/* Datum: tt.mm.jjjj                    */
+/* Datum: 21.04.2023                    */
 /* Status: lauffaehig                   */
 /****************************************/
 #include <stdio.h>
