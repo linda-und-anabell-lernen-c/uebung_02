@@ -1,13 +1,15 @@
-// TODO: durch eure Daten ersetzen
 /****************************************/
 /* Linda von Birgelen                   */
+/* 2034447                              */
 /* Gruppe: Di14, Leiter: Lucas Sieg     */
 /* Uebungsblatt: 02, Aufgabe: B-2, B-3  */
-/* Thema: Musterthema                   */
 /* Version: 1.0                         */
 /* Datum: 21.04.2023                    */
 /* Status: lauffaehig                   */
 /****************************************/
+
+//Aufgabe B-3
+
 #include <stdio.h>
 
 int main()
@@ -30,7 +32,8 @@ int main()
 }
 
 // TODO: Antworten für B-2 hier eintragen
-// Aufgabe B-2:
+// Aufgabe B-2
+
 // Bezeichner   | Zulässig [X] | Begründung bei Unzulässigkeit
 // char         |     [ ]      |
 // Sizeof       |     [ ]      |
