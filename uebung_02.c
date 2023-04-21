@@ -1,18 +1,31 @@
 // TODO: durch eure Daten ersetzen
 /****************************************/
-/* Max Mustermann, Erika Musterfrau     */
-/* Gruppe: Di10, Leiter: Musterleiter   */
-/* Uebungsblatt: xx, Aufgabe: xx        */
-/* Thema: Musterthema                   */
+/* Anabell Korsten 2032264              */
+/* Gruppe: Di10, Leiter: Timo Palm      */
+/* Uebungsblatt: 2, Aufgabe: B-3        */
 /* Version: 1.0                         */
-/* Datum: tt.mm.jjjj                    */
+/* Datum: 21.04.2023                  */
 /* Status: lauffaehig                   */
 /****************************************/
 #include <stdio.h>
 
 int main()
-{
-  // TODO: Code für Aufagbe B-3 hier
+{ 
+  int n;
+printf("Bitte geben Sie eine ganze Zahl ein: ");
+scanf("%i", &n);
+int m;
+printf("Bitte geben Sie eine weitere ganze Zahl ein: ");
+scanf("%i", &m);
+int a = n + m;
+int b = n - m;
+int c = n * m;
+// Nun benutze ich double, weil bei Division zweier ganer Zahlen eine Kommazahl rauskommen kann
+double d =(double) n / m;
+ printf("%i + %i = %i\n", n, m, a);
+printf("%i - %i = %i\n", n, m, b);
+printf("%i * %i = %i\n", n, m, c);
+printf("%i / %i = %f\n", n, m, d);
 }
 
 // TODO: Antworten für B-2 hier eintragen
